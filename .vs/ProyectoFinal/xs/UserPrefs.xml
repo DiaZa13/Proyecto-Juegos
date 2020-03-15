@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3C531D86-F514-8865-5267-1058EFED5D33}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TopoPatrol.cs">
+    <Files>
+      <File FileName="../../../../Desktop/Juegos/RUEDA_LAB6/Assets/Scripts/PlayerController2D.cs" Line="110" Column="4" />
+      <File FileName="Assets/Scripts/MovimientoMC.cs" Line="52" Column="31" />
+      <File FileName="Assets/Scripts/Plataforma.cs" Line="8" Column="27" />
+      <File FileName="Assets/Scripts/MovimientoTopos2.cs" Line="33" Column="95" />
+      <File FileName="Assets/Scripts/Vida.cs" Line="16" Column="47" />
+      <File FileName="Assets/Scripts/Spike.cs" />
+      <File FileName="Assets/Scripts/TopoPatrol.cs" Line="40" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProyectoFinal" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="18c8c465-2629-46d5-a0c9-4e8669061dd1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
